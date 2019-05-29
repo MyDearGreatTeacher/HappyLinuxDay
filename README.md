@@ -6,7 +6,7 @@
 
 ```
 
-# HappyLinuxDay 2:程式開發與逆向工程入門
+# HappyLinuxDay 2:程式開發+逆向工程+PWN 入門 HackingWeekend
 ```
 本課程學習環境:
 Kali Linux 2019.1
