@@ -43,7 +43,9 @@ file+string
 
 ### 漏洞程式(0):漏洞程式執行與pwntools
 ```
-漏洞程式執行:nc + netcat
+漏洞程式執行:nc + netcat + socat
+
+sudo apt-get install socat
 
 存取漏洞程式與pwntools技術
 ```
