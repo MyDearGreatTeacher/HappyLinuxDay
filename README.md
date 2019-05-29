@@ -7,7 +7,13 @@
 ```
 
 # HappyLinuxDay 2:程式開發與逆向工程入門
-
+```
+本課程學習環境:
+Kali Linux 2019.1
+Ubuntu LTS 18.04
+Centos 7.X
+```
+```
 ## 基礎程式開發
 ```
 c程式開發
