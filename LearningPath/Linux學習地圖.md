@@ -15,7 +15,6 @@ The Structure of the Linux File System
 ```
 
 ### 檔案與目錄存取
-
 ```
 Creating Files and Folders 
 Deleting Files and Folders
@@ -31,12 +30,16 @@ File Archiving and Compression
 備份、檔案壓縮打包
 ```
 
+
+# Linux管理
+
 ### 使用者管理 User Management 
 
 ```
 檔案權限與帳號管理
 
 ```
+
 ### 程序管理process management
 ```
 
