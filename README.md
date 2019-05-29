@@ -43,4 +43,6 @@ netcat
 
 ### objdump
 
+### IDA Pro技術
+
 ### radare 2技術
