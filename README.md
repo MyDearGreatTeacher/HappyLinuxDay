@@ -7,7 +7,7 @@
 [CTF實戰]PICO 2018:GEneral Skills 110: pipe
 [CTF實戰]PICO 2018:General Skills 125: grep 2
 [CTF實戰]PICO 2018:General Skills 75: net cat
-
+[CTF實戰]PICO 2018:General Skills 150: environ
 [CTF實戰]PICO 2018:Cryptography 100: HEEEEEEERE'S Johnny!
 密碼破解
 ```
@@ -51,6 +51,7 @@ file+string
 ```
 
 [CTF實戰]picoctf 2018: Binary Exploitation 150: buffer overflow 0
+[CTF實戰]picoctf 2018:Binary Exploitation 200: leak-me
 ```
 ### 漏洞程式與PWN(2):有Format String漏洞的程式
 ```
